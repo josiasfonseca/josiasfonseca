@@ -1,11 +1,11 @@
-### Josias Fonseca
+## Josias Fonseca
 
-# Developer in MegabitSofware
+### Developer in MegabitSofware
 
-Technologies:
+#### Technologies:
 
-JavaScript -VueJS
-PHP Laravel
-MySQL 
-Firebird
-NodeJS (Learning...)
+##### JavaScript -VueJS
+##### PHP Laravel
+##### MySQL 
+##### Firebird
+##### NodeJS (Learning...)
