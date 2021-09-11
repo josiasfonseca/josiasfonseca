@@ -1,8 +1,8 @@
-#Josias Fonseca
+## Josias Fonseca
 
-##Developer in MegabitSofware
+# Developer in MegabitSofware
 
-## JavaScript -VueJS
-## PHP Laravel
-## MySQL 
-## Firebird
+# JavaScript -VueJS
+# PHP Laravel
+# MySQL 
+# Firebird
