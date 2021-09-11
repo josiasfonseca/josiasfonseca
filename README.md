@@ -1,8 +1,11 @@
-## Josias Fonseca
+### Josias Fonseca
 
 # Developer in MegabitSofware
 
-# JavaScript -VueJS
-# PHP Laravel
-# MySQL 
-# Firebird
+Technologies:
+
+JavaScript -VueJS
+PHP Laravel
+MySQL 
+Firebird
+NodeJS (Learning...)
