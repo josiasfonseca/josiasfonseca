@@ -8,7 +8,6 @@
 ##### PHP Laravel
 ##### MySQL 
 ##### Firebird
-##### NodeJS (Learning...)
 
 
 ###### Análise e Desenvolvimento de sistemas IFPR Foz (2018 - 2021)
